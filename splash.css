@@ -1,0 +1,34 @@
+#signup 
+{
+	position: relative;
+	top: 50px;
+	left: 32%;
+}
+
+#discuss
+{
+	float:left;
+	position:relative;
+	left:25%;
+}
+
+#ask
+{
+	float:left;
+	position:relative;
+	left:0;
+}
+
+#challenge
+{
+	float:left;
+	position:relative;
+	left:50%;
+}
+
+#organize
+{
+	float:left;
+	position:relative;
+	left:75%;
+}
